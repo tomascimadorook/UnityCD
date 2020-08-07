@@ -31,7 +31,7 @@ jobs:
       - name: Build project
         uses: webbertakken/unity-builder@v1.1
         with:
-          unityVersion: 2019.3.3f1
+          unityVersion: 2020.1.0b3
           targetPlatform: Android
 
       # Output
